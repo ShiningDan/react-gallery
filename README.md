@@ -6,6 +6,8 @@
 
 ![](http://ojt6zsxg2.bkt.clouddn.com/974aa23d57a72dd84ec464a88acc6822.png)
 
+项目的动态展示链接： https://shiningdan.github.io/react-gallery/
+
 项目下载方法：
 
 这个小项目的 Demo 我已经传到网上去了，可以在 github 上进行下载。具体步骤如下：
