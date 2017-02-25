@@ -24,4 +24,4 @@ npm run start
 
 就可以在 http://localhost:8080/index.html 上看到项目的展示效果。
 
-项目从零开始的完成步骤可以在 https://shiningdan.github.io/2017/02/16/%E4%BD%BF%E7%94%A8-React-%E5%92%8C-Webpack-%E5%88%9B%E5%BB%BA%E7%94%BB%E5%BB%8A%E5%BA%94%E7%94%A8/ 中查看
+项目从零开始的完成步骤可以在 [使用 React 和 Webpack 创建画廊应用](https://shiningdan.github.io/2017/02/16/%E4%BD%BF%E7%94%A8-React-%E5%92%8C-Webpack-%E5%88%9B%E5%BB%BA%E7%94%BB%E5%BB%8A%E5%BA%94%E7%94%A8/) 中查看
